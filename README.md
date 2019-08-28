@@ -1,2 +1,2 @@
 # SimpleDL
-sample example of deep learning
+simple example of deep learning
